@@ -11,7 +11,7 @@ public class camera : MonoBehaviour {
 	
 	// Update is called once per frame
 	void LateUpdate () {
-        transform.position = carempty.transform.position + offset/3;
+        transform.position = carempty.transform.position + offset/2;
         
 	
 	}
